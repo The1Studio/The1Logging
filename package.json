@@ -1,16 +1,16 @@
 {
-  "name": "com.frostbun.unit.logging",
-  "displayName": "UniT Logging",
+  "name": "com.theone.logging",
+  "displayName": "The One Logging",
   "description": "Logger Manager for Unity",
-  "version": "1.0.7",
+  "version": "1.0.0",
   "unity": "2022.3",
   "license": "MIT",
   "author": {
-    "name": "frostbun",
-    "email": "manhnb1911@gmail.com",
-    "url": "https://github.com/frostbun"
+    "name": "qa0108",
+    "email": "quanganh01082002@gmail.com",
+    "url": "https://github.com/qa0108"
   },
   "dependencies": {
-    "com.frostbun.unit.extensions": "1.0.36"
+    "com.frostbun.unit.extensions": "1.0.39"
   }
 }
