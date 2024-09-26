@@ -1,6 +1,6 @@
 #if UNIT_ZENJECT
 #nullable enable
-namespace UniT.Logging.DI
+namespace TheOne.Logging.DI
 {
     using Zenject;
 

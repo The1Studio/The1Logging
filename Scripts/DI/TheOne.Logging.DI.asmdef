@@ -1,8 +1,8 @@
 {
-  "name": "UniT.Logging.DI",
-  "rootNamespace": "UniT.Logging.DI",
+  "name": "TheOne.Logging.DI",
+  "rootNamespace": "TheOne.Logging.DI",
   "references": [
-    "UniT.Logging",
+    "TheOne.Logging",
     "UniT.DI",
     "Zenject",
     "VContainer"
