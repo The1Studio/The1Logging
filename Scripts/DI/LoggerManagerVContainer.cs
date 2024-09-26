@@ -1,4 +1,4 @@
-#if UNIT_VCONTAINER
+#if GDK_VCONTAINER
 #nullable enable
 namespace TheOne.Logging.DI
 {

@@ -3,7 +3,7 @@
   "rootNamespace": "TheOne.Logging.DI",
   "references": [
     "TheOne.Logging",
-    "UniT.DI",
+    "GameFoundation.DI",
     "Zenject",
     "VContainer"
   ],
@@ -16,12 +16,12 @@
     {
       "name": "com.svermeulen.extenject",
       "expression": "",
-      "define": "UNIT_ZENJECT"
+      "define": "GDK_ZENJECT"
     },
     {
       "name": "jp.hadashikick.vcontainer",
       "expression": "",
-      "define": "UNIT_VCONTAINER"
+      "define": "GDK_VCONTAINER"
     }
   ]
 }

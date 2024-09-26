@@ -14,7 +14,7 @@ namespace TheOne.Logging
 
         public ILogger GetLogger<T>() => this.GetLogger(typeof(T));
 
-        public ILogger GetDefaultLogger() => this.GetLogger(nameof(UniT));
+        public ILogger GetDefaultLogger() => this.GetLogger(nameof(UnityLoggerManager));
 
         public IEnumerable<ILogger> GetAllLoggers();
     }
