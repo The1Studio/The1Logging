@@ -9,19 +9,14 @@
   ],
   "versionDefines": [
     {
-      "name": "com.frostbun.unit.di",
-      "expression": "",
-      "define": "UNIT_DI"
-    },
-    {
       "name": "com.svermeulen.extenject",
       "expression": "",
-      "define": "GDK_ZENJECT"
+      "define": "THEONE_ZENJECT"
     },
     {
       "name": "jp.hadashikick.vcontainer",
       "expression": "",
-      "define": "GDK_VCONTAINER"
+      "define": "THEONE_VCONTAINER"
     }
   ]
 }

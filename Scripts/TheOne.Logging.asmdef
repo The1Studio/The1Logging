@@ -2,6 +2,6 @@
   "name": "TheOne.Logging",
   "rootNamespace": "TheOne.Logging",
   "references": [
-    "GameFoundation.Utilities"
+    "TheOne.Extensions"
   ]
 }

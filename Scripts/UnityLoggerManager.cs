@@ -3,7 +3,7 @@ namespace TheOne.Logging
 {
     using System;
     using System.Collections.Generic;
-    using GameFoundation.Scripts.Utilities.Extension;
+    using TheOne.Extensions;
     using UnityEngine.Scripting;
 
     public sealed class UnityLoggerManager : ILoggerManager

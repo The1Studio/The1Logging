@@ -1,4 +1,4 @@
-#if GDK_ZENJECT
+#if THEONE_ZENJECT
 #nullable enable
 namespace TheOne.Logging.DI
 {
